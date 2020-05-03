@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.warning{
+  width: 100%;
+}
+.img-bannar{
+  display: none;
+}
+.img-info{
+  width: 100%;
+
+}
+.img-info h2{
+padding: 30px 30px 20px;
+font-family: arial;
+font-size: 50px;
+color:#111;
+line-height: 44px;
+}
+.img-info p{
+padding: 30px 30px 20px;
+font-family: 16px;
+font-size: 50px;
+color:#111;
+line-height: 24px;
+}
+@media only screen and(min width: 768px) {
+.img-banner {
+  display:  block;
+  width: 100%;
+  padding-bottom: 30px;
+
+}
+.wrapper{
+  width: 600px;
+  margin: auto;
+}
+.img-info 2{
+padding: 30px 30px 20px;
+font-family: arial;
+font-size: 50px;
+color:#111;
+line-height: 44px;
+}
+
+}
